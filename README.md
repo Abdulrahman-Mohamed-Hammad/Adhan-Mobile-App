@@ -26,4 +26,5 @@ A modern Islamic mobile app built with **Kotlin** and **Jetpack Compose**. The a
 
 
   🎥 App Demo Video
-<video src="test.mp4" controls width="100%" style="max-width: 800px;"> Your browser does not support the video tag. </video>
+  
+[![Watch Demo](https://via.placeholder.com/800x450.png?text=▶️+Watch+App+Demo)](test.mp4)
