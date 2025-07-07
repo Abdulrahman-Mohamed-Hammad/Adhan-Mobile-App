@@ -1,0 +1,30 @@
+# === ANDROID & KOTLIN ===
+
+# Gradle
+.gradle/
+build/
+*/build/
+.externalNativeBuild/
+.cxx/
+
+# Local Configuration
+local.properties
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+*.iws
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# APK/AAB builds
+*.apk
+*.aab
+
+# Kotlin-specific
+*.class
+*.jar
+*.log
+*.kotlin_module
